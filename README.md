@@ -6,8 +6,8 @@ You can check the whole collection here! ---> https://codepen.io/collection/DarV
 
 ___________________________________________________________________________________________________________________
 
-Project 1 - // Sorry that won't work :(
+**Project 1** - _// Sorry that won't work :(_
 
-Project 2 - Particle Rain: https://codepen.io/syngrion/pen/PoWzWdW
+**Project 2** - Particle Rain: https://codepen.io/syngrion/pen/PoWzWdW
 
-Project 3 - Pixel Fire Effect: https://codepen.io/syngrion/pen/XWpKMMr
+**Project 3** - Pixel Fire Effect: https://codepen.io/syngrion/pen/XWpKMMr
