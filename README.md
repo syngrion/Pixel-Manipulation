@@ -6,7 +6,7 @@ You can check the whole collection here! ---> https://codepen.io/collection/DarV
 
 ___________________________________________________________________________________________________________________
 
-**Project 1** - _// Sorry that won't work :(_
+**Project 1** - _// The code is broken. Probably it won't work._
 
 **Project 2** - Particle Rain: https://codepen.io/syngrion/pen/PoWzWdW
 
