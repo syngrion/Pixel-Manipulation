@@ -1,7 +1,6 @@
 # Pixel-Manipulation
 
 All credits for the code tutorial from https://twitter.com/code_laboratory
-
 You can check the whole collection here! ---> https://codepen.io/collection/DarVQe
 
 ___________________________________________________________________________________________________________________
