@@ -1,6 +1,6 @@
 # Pixel-Manipulation
 
-https://codepen.io/collection/DarVQe
+You can check the whole collection here! ---> https://codepen.io/collection/DarVQe
 
 Project 1 - // Sorry that won't work :(
 
