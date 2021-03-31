@@ -6,9 +6,10 @@ His twitter: https://twitter.com/code_laboratory
 
 His Youtube Channel: https://www.youtube.com/frankslaboratory
 
+All thanks to **freeCodeCamp.org**
+___________________________________________________________________________________________________________________
 You can check my whole whole collection **here**! ---> https://codepen.io/collection/DarVQe
 
-___________________________________________________________________________________________________________________
 
 **Project 1** - _// The code is broken.
 
