@@ -11,7 +11,7 @@ ________________________________________________________________________________
 You can check my whole whole collection **here**! ---> https://codepen.io/collection/DarVQe
 
 
-**Project 1** - _// The code is broken.
+**Project 1** -_// The code is broken._
 
 **Project 2** - Particle Rain: https://codepen.io/syngrion/pen/PoWzWdW
 
