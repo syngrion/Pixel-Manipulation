@@ -1,6 +1,10 @@
 # Pixel-Manipulation
 
-All credits for the code tutorial from https://twitter.com/code_laboratory
+All credits for the code tutorial from **Frank's Laboratory**
+
+His twitter: https://twitter.com/code_laboratory
+
+His Youtube Channel: https://www.youtube.com/frankslaboratory
 
 You can check my whole whole collection **here**! ---> https://codepen.io/collection/DarVQe
 
